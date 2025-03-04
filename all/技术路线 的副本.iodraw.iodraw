@@ -90,7 +90,7 @@
           <mxGeometry x="396" y="375" width="84" height="35" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-24" value="PM2.5分布&lt;div&gt;均匀性分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
-          <mxGeometry x="524" y="375" width="84" height="35" as="geometry" />
+          <mxGeometry x="556" y="450" width="84" height="35" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-26" value="小学教室PM2.5净化预测模型研究" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
           <mxGeometry x="280" y="540" width="200" height="30" as="geometry" />
@@ -117,7 +117,7 @@
           <mxGeometry x="40" y="380" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-2" value="PM2.5净化&lt;div&gt;时间分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="460" y="420" width="84" height="35" as="geometry" />
+          <mxGeometry x="490" y="375" width="84" height="35" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-4" value="特征选取" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="200" y="630" width="90" height="30" as="geometry" />
