@@ -58,8 +58,11 @@
         <mxCell id="D63GSJbTdx13M3KLcvuP-19" value="空气净化器摆放位置" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="140" y="380" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D63GSJbTdx13M3KLcvuP-20" value="空气净化器摆放位置" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
+        <mxCell id="D63GSJbTdx13M3KLcvuP-20" value="外窗开启组合" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="250" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D63GSJbTdx13M3KLcvuP-21" value="外窗开启组合" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
+          <mxGeometry x="360" y="380" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
