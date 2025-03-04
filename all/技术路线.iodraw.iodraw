@@ -94,11 +94,8 @@
         <mxCell id="D63GSJbTdx13M3KLcvuP-33" value="控制策略" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="245" y="670" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D63GSJbTdx13M3KLcvuP-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D63GSJbTdx13M3KLcvuP-35" target="D63GSJbTdx13M3KLcvuP-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-35" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.53;dx=33;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="295" y="310" width="50" height="20" as="geometry" />
+          <mxGeometry x="40" y="250" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
