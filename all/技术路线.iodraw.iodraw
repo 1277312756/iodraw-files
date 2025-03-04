@@ -76,6 +76,15 @@
         <mxCell id="D63GSJbTdx13M3KLcvuP-26" value="小学教室PM2.5净化模型研究" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="240" y="520" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="D63GSJbTdx13M3KLcvuP-28" value="模型建立" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
+          <mxGeometry x="120" y="540" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D63GSJbTdx13M3KLcvuP-29" value="案例设置" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
+          <mxGeometry x="120" y="580" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D63GSJbTdx13M3KLcvuP-30" value="模型验证" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
+          <mxGeometry x="120" y="620" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
