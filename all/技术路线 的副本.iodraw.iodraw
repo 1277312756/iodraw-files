@@ -153,7 +153,7 @@
           <mxGeometry x="315" y="630" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-23" value="影响因素分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="480" y="-60" width="90" height="25" as="geometry" />
+          <mxGeometry x="420" y="-55" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-24" value="现场实测" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="224" y="-55" width="70" height="25" as="geometry" />
