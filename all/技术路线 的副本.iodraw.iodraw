@@ -25,7 +25,7 @@
         <mxCell id="D63GSJbTdx13M3KLcvuP-7" value="门窗启闭影响" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
           <mxGeometry x="390" y="60" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D63GSJbTdx13M3KLcvuP-8" value="其他因素影响" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
+        <mxCell id="D63GSJbTdx13M3KLcvuP-8" value="环境温湿度" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
           <mxGeometry x="500" y="60" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-10" value="研究背景" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" parent="1" vertex="1">
