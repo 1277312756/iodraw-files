@@ -56,7 +56,7 @@
           <mxGeometry x="440" y="340" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-19" value="空气净化器摆放位置" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
-          <mxGeometry x="280" y="570" width="90" height="30" as="geometry" />
+          <mxGeometry x="170" y="390" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-20" value="外窗开启组合" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
           <mxGeometry x="380" y="570" width="90" height="30" as="geometry" />
