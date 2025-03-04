@@ -68,10 +68,10 @@
           <mxGeometry x="410" y="400" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-23" value="PM2.5净化效果&lt;div&gt;分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="260" y="470" width="90" height="30" as="geometry" />
+          <mxGeometry x="530" y="350" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-24" value="PM2.5分布均匀性分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="520" y="400" width="90" height="30" as="geometry" />
+          <mxGeometry x="530" y="400" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-26" value="小学教室PM2.5净化模型研究" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="240" y="530" width="200" height="30" as="geometry" />
