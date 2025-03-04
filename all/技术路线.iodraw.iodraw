@@ -8,7 +8,7 @@
           <mxGeometry x="160" y="75" width="440" height="65" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-1" value="研究背景" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="190" y="90" width="90" height="30" as="geometry" />
+          <mxGeometry x="140" y="220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-2" value="国内外研究现状" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="310" y="90" width="110" height="30" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="450" y="90" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-5" value="小学教室内净化PM2.5效果研究" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="190" y="170" width="90" height="30" as="geometry" />
+          <mxGeometry x="190" y="170" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
