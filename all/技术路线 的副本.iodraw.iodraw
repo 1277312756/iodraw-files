@@ -7,7 +7,7 @@
         <mxCell id="D63GSJbTdx13M3KLcvuP-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="-190" width="410" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D63GSJbTdx13M3KLcvuP-1" value="室内外PM2.5&lt;div&gt;浓度现状&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
+        <mxCell id="D63GSJbTdx13M3KLcvuP-1" value="室内外PM2.5&lt;div&gt;浓度&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
           <mxGeometry x="260" y="-50" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-2" value="国内外研究现状" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" parent="1" vertex="1">
@@ -20,10 +20,10 @@
           <mxGeometry x="260" y="-100" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-6" value="空气净化器摆放位置影响" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
-          <mxGeometry x="280" y="60" width="90" height="30" as="geometry" />
+          <mxGeometry x="260" y="-10" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-7" value="门窗启闭影响" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
-          <mxGeometry x="390" y="60" width="90" height="30" as="geometry" />
+          <mxGeometry x="260" y="30" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-8" value="环境温湿度" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
           <mxGeometry x="500" y="60" width="90" height="30" as="geometry" />
