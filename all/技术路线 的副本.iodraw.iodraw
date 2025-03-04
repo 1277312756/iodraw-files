@@ -159,7 +159,7 @@
           <mxGeometry x="220" y="-50" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-27" value="室内外PM2.5浓度现状" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="390" y="-15" width="80" height="30" as="geometry" />
+          <mxGeometry x="390" y="-15" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-28" value="门窗启闭" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="588" y="15" width="80" height="20" as="geometry" />
