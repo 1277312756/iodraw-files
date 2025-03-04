@@ -47,13 +47,16 @@
           <mxGeometry x="190" y="290" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-16" value="模型建立" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="130" y="360" width="90" height="30" as="geometry" />
+          <mxGeometry x="140" y="340" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-17" value="案例设置" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="240" y="340" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-18" value="模型验证" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="340" y="340" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D63GSJbTdx13M3KLcvuP-19" value="空气净化器摆放位置" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
+          <mxGeometry x="140" y="380" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
