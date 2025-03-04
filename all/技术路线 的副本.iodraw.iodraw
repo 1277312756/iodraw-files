@@ -121,7 +121,7 @@
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-10" value="设定净化时间" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="300" y="830" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GBgiPGe7R0msr_D5GTnJ-11" value="设定门窗通风时间" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
+        <mxCell id="GBgiPGe7R0msr_D5GTnJ-11" value="设定PM2.5" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="300" y="790" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
