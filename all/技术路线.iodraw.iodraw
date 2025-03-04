@@ -28,9 +28,6 @@
         <mxCell id="D63GSJbTdx13M3KLcvuP-8" value="其他因素影响" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="470" y="220" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D63GSJbTdx13M3KLcvuP-9" value="室内外PM2.5浓度现状" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="140" y="70" width="90" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
