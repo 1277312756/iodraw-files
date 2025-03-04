@@ -75,16 +75,16 @@
           <mxGeometry x="454" y="340" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-19" value="净化器摆放位置" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
-          <mxGeometry x="170" y="390" width="90" height="30" as="geometry" />
+          <mxGeometry x="170" y="380" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-20" value="外窗开启组合" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
-          <mxGeometry x="280" y="390" width="90" height="30" as="geometry" />
+          <mxGeometry x="280" y="380" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-21" value="门窗启闭" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
-          <mxGeometry x="390" y="390" width="90" height="30" as="geometry" />
+          <mxGeometry x="390" y="380" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-22" value="室外PM2.5浓度" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
-          <mxGeometry x="500" y="390" width="90" height="30" as="geometry" />
+          <mxGeometry x="500" y="380" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-23" value="PM2.5净化效果&lt;div&gt;分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
           <mxGeometry x="214" y="440" width="90" height="30" as="geometry" />
