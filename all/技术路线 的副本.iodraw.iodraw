@@ -69,7 +69,7 @@
           <mxGeometry x="214" y="350" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-17" value="案例设置" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
-          <mxGeometry x="350" y="350" width="90" height="20" as="geometry" />
+          <mxGeometry x="334" y="350" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-18" value="模型验证" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
           <mxGeometry x="454" y="350" width="90" height="20" as="geometry" />
