@@ -152,7 +152,7 @@
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-22" value="模型验证" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="315" y="630" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GBgiPGe7R0msr_D5GTnJ-23" value="印象因素分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
+        <mxCell id="GBgiPGe7R0msr_D5GTnJ-23" value="影响因素分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="480" y="-60" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
