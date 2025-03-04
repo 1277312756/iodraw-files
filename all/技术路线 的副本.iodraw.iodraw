@@ -93,7 +93,7 @@
           <mxGeometry x="444" y="190" width="84" height="35" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-26" value="小学教室PM2.5净化预测模型研究" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
-          <mxGeometry x="270" y="240" width="200" height="30" as="geometry" />
+          <mxGeometry x="275" y="240" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-28" value="模型搭建" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
           <mxGeometry x="190" y="290" width="90" height="20" as="geometry" />
