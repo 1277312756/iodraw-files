@@ -132,14 +132,6 @@
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-11" value="PM2.5均匀性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="300" y="790" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GBgiPGe7R0msr_D5GTnJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.089;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="D63GSJbTdx13M3KLcvuP-15" target="D63GSJbTdx13M3KLcvuP-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="377" y="330" />
-              <mxPoint x="259" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
