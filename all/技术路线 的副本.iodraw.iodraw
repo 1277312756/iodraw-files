@@ -155,8 +155,8 @@
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-23" value="影响因素分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="480" y="-60" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GBgiPGe7R0msr_D5GTnJ-24" value="室内外PM2.5&lt;div&gt;浓度现状&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-30" width="90" height="30" as="geometry" />
+        <mxCell id="GBgiPGe7R0msr_D5GTnJ-24" value="现场实测分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-30" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
