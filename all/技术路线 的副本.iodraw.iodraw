@@ -41,7 +41,7 @@
           <mxGeometry x="640" y="360" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-14" value="深度学习建模" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
-          <mxGeometry x="640" y="820" width="110" height="30" as="geometry" />
+          <mxGeometry x="640" y="700" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-15" value="小学教室内PM2.5净化数值仿真" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
           <mxGeometry x="277" y="290" width="200" height="30" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="400" y="440" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-26" value="小学教室PM2.5净化模型研究" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
-          <mxGeometry x="280" y="620" width="200" height="30" as="geometry" />
+          <mxGeometry x="280" y="500" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-28" value="模型建立" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
           <mxGeometry x="214" y="670" width="90" height="30" as="geometry" />
