@@ -120,7 +120,7 @@
           <mxGeometry x="504" y="375" width="84" height="35" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-4" value="特征选取" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="200" y="630" width="90" height="20" as="geometry" />
+          <mxGeometry x="200" y="650" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-5" value="模型验证" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="524" y="700" width="90" height="30" as="geometry" />
@@ -147,7 +147,7 @@
           <mxGeometry x="380" y="410" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-20" value="数据处理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="200" y="660" width="90" height="20" as="geometry" />
+          <mxGeometry x="200" y="620" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
