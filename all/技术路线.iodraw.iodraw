@@ -82,7 +82,7 @@
         <mxCell id="D63GSJbTdx13M3KLcvuP-29" value="数据准备" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="240" y="570" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D63GSJbTdx13M3KLcvuP-30" value="模型验证" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
+        <mxCell id="D63GSJbTdx13M3KLcvuP-30" value="实验设置" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="360" y="570" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
