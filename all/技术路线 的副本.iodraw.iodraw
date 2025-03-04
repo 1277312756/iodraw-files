@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GBgiPGe7R0msr_D5GTnJ-85" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="260" width="541" height="190" as="geometry" />
+        <mxCell id="GBgiPGe7R0msr_D5GTnJ-85" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="90" y="260" width="551" height="190" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="75" width="450" height="165" as="geometry" />
@@ -280,7 +280,7 @@
           <mxGeometry x="424" y="540" width="176" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-88" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="300" width="240" height="70" as="geometry" />
+          <mxGeometry x="100" y="300" width="250" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
