@@ -279,6 +279,9 @@
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-83" value="教室内PM2.5&lt;span style=&quot;background-color: initial;&quot;&gt;净化控制策略&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="424" y="540" width="176" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GBgiPGe7R0msr_D5GTnJ-88" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="98.5" y="290" width="541" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
