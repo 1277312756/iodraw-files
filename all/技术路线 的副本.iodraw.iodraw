@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="uxQ1xf0bh8fquXFMyrl2">
-    <mxGraphModel dx="770" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1123" dy="1832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="170" y="-190" width="410" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-1" value="PM2.5&lt;span style=&quot;background-color: initial;&quot;&gt;浓度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
-          <mxGeometry x="170" y="-15" width="80" height="20" as="geometry" />
+          <mxGeometry x="150" y="-15" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-2" value="国内外研究现状" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="-180" width="110" height="30" as="geometry" />
@@ -20,13 +20,13 @@
           <mxGeometry x="260" y="-90" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-6" value="空气净化器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
-          <mxGeometry x="170" y="15" width="80" height="20" as="geometry" />
+          <mxGeometry x="150" y="15" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-7" value="门窗启闭" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
-          <mxGeometry x="260" y="-15" width="80" height="20" as="geometry" />
+          <mxGeometry x="240" y="-15" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-8" value="温湿度" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
-          <mxGeometry x="260" y="15" width="80" height="20" as="geometry" />
+          <mxGeometry x="240" y="15" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-10" value="研究背景" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="-180" width="90" height="30" as="geometry" />
@@ -153,25 +153,25 @@
           <mxGeometry x="315" y="630" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-23" value="因素分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="454" y="-50" width="90" height="25" as="geometry" />
+          <mxGeometry x="434" y="-50" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-24" value="现场实测" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-50" width="70" height="25" as="geometry" />
+          <mxGeometry x="200" y="-50" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-27" value="室内外PM2.5浓度现状" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="390" y="-15" width="130" height="20" as="geometry" />
+          <mxGeometry x="370" y="-15" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-28" value="门窗启闭" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="530" y="-15" width="80" height="20" as="geometry" />
+          <mxGeometry x="510" y="-15" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-29" value="净化器位置与数量" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="390" y="15" width="130" height="20" as="geometry" />
+          <mxGeometry x="370" y="15" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-30" value="温湿度" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="530" y="15" width="80" height="20" as="geometry" />
+          <mxGeometry x="510" y="15" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-31" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.59;dx=14.16;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="-10" width="30" height="20" as="geometry" />
+          <mxGeometry x="330" y="-10" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
