@@ -138,10 +138,10 @@
           <mxGeometry x="300" y="750" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-10" value="净化时间" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="300" y="830" width="90" height="30" as="geometry" />
+          <mxGeometry x="300" y="830" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-11" value="PM2.5均匀性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="300" y="790" width="90" height="30" as="geometry" />
+          <mxGeometry x="300" y="790" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-19" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.59;dx=14.16;notch=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="410" width="30" height="20" as="geometry" />
