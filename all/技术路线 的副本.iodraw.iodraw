@@ -238,13 +238,13 @@
           <mxGeometry x="422" y="320" width="176" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-68" value="降低室内PM2.5浓度至安全水平" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="420" y="360" width="180" height="20" as="geometry" />
+          <mxGeometry x="460" y="360" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-69" value="避免教室内出现PM2.5热点区" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="420" y="390" width="180" height="20" as="geometry" />
+          <mxGeometry x="460" y="390" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-70" value="使教室尽量处于通风状态" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="420" y="420" width="180" height="20" as="geometry" />
+          <mxGeometry x="460" y="420" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-71" value="模型搭建" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="140" y="320" width="70" height="20" as="geometry" />
@@ -271,7 +271,7 @@
           <mxGeometry x="370" y="370" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-81" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;flipV=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="250" y="420" width="20" height="220" as="geometry" />
+          <mxGeometry x="440" y="370" width="20" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
