@@ -99,7 +99,7 @@
           <mxGeometry x="200" y="590" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-29" value="超参数设置" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
-          <mxGeometry x="330" y="595" width="90" height="20" as="geometry" />
+          <mxGeometry x="315" y="590" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-31" value="模型性能评估" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
           <mxGeometry x="448" y="585" width="90" height="30" as="geometry" />
