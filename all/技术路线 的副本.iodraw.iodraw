@@ -82,9 +82,6 @@
         <mxCell id="D63GSJbTdx13M3KLcvuP-29" value="数据准备" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
           <mxGeometry x="334" y="590" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D63GSJbTdx13M3KLcvuP-30" value="实验设置" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
-          <mxGeometry x="454" y="590" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-31" value="预测结果分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
           <mxGeometry x="274" y="690" width="90" height="30" as="geometry" />
         </mxCell>
@@ -92,7 +89,7 @@
           <mxGeometry x="404" y="690" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-33" value="净化环境下" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
-          <mxGeometry x="339" y="810" width="90" height="30" as="geometry" />
+          <mxGeometry x="240" y="780" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-35" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.53;dx=33;notch=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="250" width="50" height="20" as="geometry" />
