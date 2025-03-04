@@ -246,6 +246,30 @@
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-70" value="使教室尽量处于通风状态" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="439" y="570" width="180" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="GBgiPGe7R0msr_D5GTnJ-71" value="模型搭建" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
+          <mxGeometry x="140" y="470" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GBgiPGe7R0msr_D5GTnJ-72" value="超参数设置" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
+          <mxGeometry x="180" y="500" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GBgiPGe7R0msr_D5GTnJ-73" value="评估模型对净化PM2.5预测效果" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
+          <mxGeometry x="160" y="530" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GBgiPGe7R0msr_D5GTnJ-74" value="多模型对比优选最佳预测模型" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
+          <mxGeometry x="160" y="560" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GBgiPGe7R0msr_D5GTnJ-75" value="特征选取" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
+          <mxGeometry x="300" y="470" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GBgiPGe7R0msr_D5GTnJ-76" value="数据处理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
+          <mxGeometry x="220" y="470" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GBgiPGe7R0msr_D5GTnJ-77" value="模型验证" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
+          <mxGeometry x="265" y="500" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GBgiPGe7R0msr_D5GTnJ-78" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.59;dx=14.16;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="520" width="30" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
