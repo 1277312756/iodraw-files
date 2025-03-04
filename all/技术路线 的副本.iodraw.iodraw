@@ -99,7 +99,7 @@
           <mxGeometry x="150" y="285" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-29" value="超参数设置" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
-          <mxGeometry x="265" y="295" width="90" height="20" as="geometry" />
+          <mxGeometry x="230" y="295" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-31" value="评估模型对净化PM2.5预测效果" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
           <mxGeometry x="370" y="280" width="190" height="25" as="geometry" />
@@ -150,7 +150,7 @@
           <mxGeometry x="150" y="315" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-22" value="模型验证" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="265" y="325" width="90" height="20" as="geometry" />
+          <mxGeometry x="230" y="325" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-23" value="因素分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="434" y="-50" width="90" height="25" as="geometry" />
