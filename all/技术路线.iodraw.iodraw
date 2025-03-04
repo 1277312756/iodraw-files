@@ -28,6 +28,9 @@
         <mxCell id="D63GSJbTdx13M3KLcvuP-8" value="其他因素影响" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="470" y="220" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="D63GSJbTdx13M3KLcvuP-10" value="研究背景" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
+          <mxGeometry x="180" y="90" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
