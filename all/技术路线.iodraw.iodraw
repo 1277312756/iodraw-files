@@ -67,8 +67,11 @@
         <mxCell id="D63GSJbTdx13M3KLcvuP-22" value="室外PM2.5浓度" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
           <mxGeometry x="460" y="380" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D63GSJbTdx13M3KLcvuP-23" value="空气净化器摆放位置" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
-          <mxGeometry x="140" y="420" width="90" height="30" as="geometry" />
+        <mxCell id="D63GSJbTdx13M3KLcvuP-23" value="PM2.5净化效果分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
+          <mxGeometry x="180" y="420" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D63GSJbTdx13M3KLcvuP-24" value="PM2.5净化效果分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" vertex="1" parent="1">
+          <mxGeometry x="280" y="420" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
