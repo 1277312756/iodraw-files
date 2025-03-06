@@ -294,7 +294,7 @@
         <mxCell id="Ji5143PjZxDdB79J936g-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ji5143PjZxDdB79J936g-45" target="Ji5143PjZxDdB79J936g-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ji5143PjZxDdB79J936g-45" value="交叉验证" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
+        <mxCell id="Ji5143PjZxDdB79J936g-45" value="模型验证" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="134" y="70" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
