@@ -297,8 +297,11 @@
         <mxCell id="Ji5143PjZxDdB79J936g-45" value="模型验证" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="134" y="70" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ji5143PjZxDdB79J936g-51" value="模型验证" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="70" width="90" height="30" as="geometry" />
+        <mxCell id="Ji5143PjZxDdB79J936g-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ji5143PjZxDdB79J936g-51" target="Ji5143PjZxDdB79J936g-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji5143PjZxDdB79J936g-51" value="交叉验证" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="70" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
