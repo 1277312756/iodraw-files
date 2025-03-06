@@ -213,19 +213,19 @@
           <mxGeometry x="354" y="-120" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ji5143PjZxDdB79J936g-7" value="模型构建" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-280" width="90" height="30" as="geometry" />
+          <mxGeometry x="354" y="-80" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ji5143PjZxDdB79J936g-8" value="模型训练" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-200" width="90" height="30" as="geometry" />
+          <mxGeometry x="354" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ji5143PjZxDdB79J936g-9" value="超参数优化" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-240" width="90" height="30" as="geometry" />
+          <mxGeometry x="354" y="-40" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ji5143PjZxDdB79J936g-10" value="交叉验证" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-160" width="90" height="30" as="geometry" />
+          <mxGeometry x="354" y="40" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ji5143PjZxDdB79J936g-11" value="模型评估" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-120" width="90" height="30" as="geometry" />
+          <mxGeometry x="354" y="80" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
