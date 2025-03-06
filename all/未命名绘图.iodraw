@@ -296,15 +296,14 @@
         <mxCell id="Ji5143PjZxDdB79J936g-38" value="训练集" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="134" y="-180" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ji5143PjZxDdB79J936g-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="Ji5143PjZxDdB79J936g-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.507;entryY=0.078;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Ji5143PjZxDdB79J936g-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="206" y="50" as="sourcePoint" />
             <mxPoint x="152" y="70" as="targetPoint" />
             <Array as="points">
               <mxPoint x="180" y="50" />
               <mxPoint x="180" y="60" />
-              <mxPoint x="200" y="60" />
-              <mxPoint x="200" y="70" />
+              <mxPoint x="236" y="60" />
             </Array>
           </mxGeometry>
         </mxCell>
