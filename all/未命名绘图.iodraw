@@ -282,6 +282,9 @@
         <mxCell id="Ji5143PjZxDdB79J936g-38" value="训练集" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="134" y="-180" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ji5143PjZxDdB79J936g-45" value="交叉验证" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="134" y="70" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
