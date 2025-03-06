@@ -206,22 +206,11 @@
         <mxCell id="Ji5143PjZxDdB79J936g-7" value="模型构建" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="134" y="-80" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ji5143PjZxDdB79J936g-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ji5143PjZxDdB79J936g-8" target="Ji5143PjZxDdB79J936g-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="179" y="60" />
-              <mxPoint x="125" y="60" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Ji5143PjZxDdB79J936g-8" value="模型训练" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="134" y="20" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ji5143PjZxDdB79J936g-9" value="超参数优化" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="134" y="-30" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ji5143PjZxDdB79J936g-10" value="交叉验证" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="70" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ji5143PjZxDdB79J936g-11" value="模型评估" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="134" y="120" width="90" height="30" as="geometry" />
