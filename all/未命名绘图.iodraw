@@ -54,7 +54,7 @@
           <mxGeometry x="240" y="445" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-10" value="CFD数据整理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="274" y="-280" width="90" height="30" as="geometry" />
+          <mxGeometry x="134" y="-280" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D63GSJbTdx13M3KLcvuP-11" value="研究目的与内容" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;" parent="1" vertex="1">
           <mxGeometry x="660" y="280" width="110" height="30" as="geometry" />
@@ -197,23 +197,26 @@
         <mxCell id="GBgiPGe7R0msr_D5GTnJ-88" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="720" width="250" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="Ji5143PjZxDdB79J936g-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ji5143PjZxDdB79J936g-6" target="Ji5143PjZxDdB79J936g-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ji5143PjZxDdB79J936g-6" value="特征选取" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="274" y="-130" width="90" height="30" as="geometry" />
+          <mxGeometry x="134" y="-130" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ji5143PjZxDdB79J936g-7" value="模型构建" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="274" y="-80" width="90" height="30" as="geometry" />
+          <mxGeometry x="134" y="-80" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ji5143PjZxDdB79J936g-8" value="模型训练" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="274" width="90" height="30" as="geometry" />
+          <mxGeometry x="134" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ji5143PjZxDdB79J936g-9" value="超参数优化" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="274" y="-40" width="90" height="30" as="geometry" />
+          <mxGeometry x="134" y="-40" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ji5143PjZxDdB79J936g-10" value="交叉验证" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="40" width="90" height="30" as="geometry" />
+          <mxGeometry x="80" y="40" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ji5143PjZxDdB79J936g-11" value="模型评估" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="274" y="80" width="90" height="30" as="geometry" />
+          <mxGeometry x="134" y="80" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ji5143PjZxDdB79J936g-12" value="CFD数据整理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="644" y="-280" width="90" height="30" as="geometry" />
@@ -258,16 +261,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ji5143PjZxDdB79J936g-23" value="数据处理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="274" y="-230" width="90" height="30" as="geometry" />
+          <mxGeometry x="134" y="-230" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ji5143PjZxDdB79J936g-25" value="验证集" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="-180" width="90" height="30" as="geometry" />
+          <mxGeometry x="10" y="-180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ji5143PjZxDdB79J936g-27" value="测试集" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="395" y="-180" width="90" height="30" as="geometry" />
+          <mxGeometry x="255" y="-180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ji5143PjZxDdB79J936g-28" value="测试集" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="40" width="90" height="30" as="geometry" />
+          <mxGeometry x="190" y="40" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ji5143PjZxDdB79J936g-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.511;entryY=0.089;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="D63GSJbTdx13M3KLcvuP-10" target="Ji5143PjZxDdB79J936g-23">
           <mxGeometry relative="1" as="geometry" />
@@ -276,7 +279,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ji5143PjZxDdB79J936g-38" value="训练集" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="274" y="-180" width="90" height="30" as="geometry" />
+          <mxGeometry x="134" y="-180" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
