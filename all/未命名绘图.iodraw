@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="uxQ1xf0bh8fquXFMyrl2">
-    <mxGraphModel dx="815" dy="1600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="1798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,6 +226,39 @@
         </mxCell>
         <mxCell id="Ji5143PjZxDdB79J936g-11" value="模型评估" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji5143PjZxDdB79J936g-12" value="CFD数据整理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="644" y="-280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji5143PjZxDdB79J936g-13" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="644" y="-240" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji5143PjZxDdB79J936g-14" value="归一化" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji5143PjZxDdB79J936g-15" value="独热编码" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="694" y="-200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji5143PjZxDdB79J936g-16" value="时间序列切割" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="644" y="-160" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji5143PjZxDdB79J936g-17" value="特征选取" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="644" y="-120" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji5143PjZxDdB79J936g-18" value="模型构建" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="644" y="-80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji5143PjZxDdB79J936g-19" value="模型训练" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="644" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji5143PjZxDdB79J936g-20" value="超参数优化" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="644" y="-40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji5143PjZxDdB79J936g-21" value="交叉验证" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="644" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji5143PjZxDdB79J936g-22" value="模型评估" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="644" y="80" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
