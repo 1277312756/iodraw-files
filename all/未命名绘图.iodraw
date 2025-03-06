@@ -212,6 +212,12 @@
         <mxCell id="Ji5143PjZxDdB79J936g-6" value="特征选取" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="-120" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ji5143PjZxDdB79J936g-7" value="模型构建" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji5143PjZxDdB79J936g-8" value="模型构建" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体 常规;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-40" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
