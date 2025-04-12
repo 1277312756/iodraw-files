@@ -191,7 +191,7 @@
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-113" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="p4w9HSehOi0-6pevXHGs-71" vertex="1" connectable="0">
           <mxGeometry x="-0.8569" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-64" value="&lt;font face=&quot;Times New Roman&quot;&gt;关门窗净化时间&amp;gt;1h?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
