@@ -141,7 +141,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p4w9HSehOi0-6pevXHGs-58" value="开启门窗净化室内PM2.5&lt;div&gt;浓度&lt;span style=&quot;background-color: initial;&quot;&gt;均值最终&amp;lt;50ug/m&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;3&lt;/sup&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p4w9HSehOi0-6pevXHGs-58" value="&lt;font face=&quot;Times New Roman&quot;&gt;开启门窗净化室内PM2.5&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;浓度&lt;span style=&quot;background-color: initial;&quot;&gt;均值最终&amp;lt;50ug/m&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;3&lt;/sup&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;?&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="166.25" y="330" width="227.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="p4w9HSehOi0-6pevXHGs-59" edge="1">
@@ -212,7 +212,7 @@
         <mxCell id="p4w9HSehOi0-6pevXHGs-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p4w9HSehOi0-6pevXHGs-76" target="p4w9HSehOi0-6pevXHGs-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p4w9HSehOi0-6pevXHGs-76" value="持续监测室内PM2.5浓度" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p4w9HSehOi0-6pevXHGs-76" value="&lt;font face=&quot;Times New Roman&quot;&gt;持续监测室内PM2.5浓度&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="457.5" y="589" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p4w9HSehOi0-6pevXHGs-78" target="p4w9HSehOi0-6pevXHGs-83" edge="1">
