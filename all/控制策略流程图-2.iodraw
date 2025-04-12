@@ -283,7 +283,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-80" value="净化后PM2.5&amp;gt;&lt;span style=&quot;background-color: initial;&quot;&gt;50ug/m&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;3&lt;/sup&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;时间达30min？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="425.86" y="809" width="174.14" height="50" as="geometry" />
+          <mxGeometry x="410" y="800" width="200" height="59" as="geometry" />
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p4w9HSehOi0-6pevXHGs-83" target="p4w9HSehOi0-6pevXHGs-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
