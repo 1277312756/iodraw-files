@@ -167,7 +167,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-59" value="&lt;font face=&quot;Times New Roman&quot;&gt;开启门窗净化室内PM2.5&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;浓度&lt;span style=&quot;background-color: initial;&quot;&gt;均值最终&amp;lt;50μg/m&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;3&lt;/sup&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;?&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-103.75" y="810" width="227.5" height="70" as="geometry" />
+          <mxGeometry x="-103.75" y="800" width="227.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p4w9HSehOi0-6pevXHGs-62" target="p4w9HSehOi0-6pevXHGs-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
