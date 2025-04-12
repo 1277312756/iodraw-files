@@ -166,7 +166,7 @@
             <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p4w9HSehOi0-6pevXHGs-59" value="开启门窗净化室内PM2.5&lt;div&gt;浓度&lt;span style=&quot;background-color: initial;&quot;&gt;均值最终&amp;lt;50ug/m&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;3&lt;/sup&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p4w9HSehOi0-6pevXHGs-59" value="&lt;font face=&quot;Times New Roman&quot;&gt;开启门窗净化室内PM2.5&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;SXuXAJzwy7SUDltTS7mj&quot;&gt;浓度&lt;span style=&quot;background-color: initial;&quot;&gt;均值最终&amp;lt;50ug/m&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;3&lt;/sup&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;?&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-101.25" y="810" width="227.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p4w9HSehOi0-6pevXHGs-62" target="p4w9HSehOi0-6pevXHGs-88" edge="1">
@@ -194,7 +194,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p4w9HSehOi0-6pevXHGs-64" value="关门窗净化时间&amp;gt;1h?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p4w9HSehOi0-6pevXHGs-64" value="&lt;font face=&quot;Times New Roman&quot;&gt;关门窗净化时间&amp;gt;1h?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-68.12" y="910" width="161.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p4w9HSehOi0-6pevXHGs-74" target="p4w9HSehOi0-6pevXHGs-75" edge="1">
