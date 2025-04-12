@@ -53,7 +53,7 @@
         <mxCell id="p4w9HSehOi0-6pevXHGs-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p4w9HSehOi0-6pevXHGs-23" target="p4w9HSehOi0-6pevXHGs-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p4w9HSehOi0-6pevXHGs-23" value="给出模型预测空气净化器最佳摆放位置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p4w9HSehOi0-6pevXHGs-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;给出模型预测空气净化器最佳摆放位置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-57.5" y="410" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p4w9HSehOi0-6pevXHGs-25" target="p4w9HSehOi0-6pevXHGs-31" edge="1">
@@ -95,7 +95,7 @@
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p4w9HSehOi0-6pevXHGs-36" value="&lt;font face=&quot;Times New Roman&quot;&gt;净化后PM2.5&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt;25μg/m&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;3&lt;/sup&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;hYSLZwgAokkqeJcjH5dU&quot;&gt;时间达25min？&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p4w9HSehOi0-6pevXHGs-36" value="&lt;font face=&quot;Times New Roman&quot;&gt;净化后PM2.5&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt;25μg/m&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;3&lt;/sup&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;时间达25min？&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-90" y="590" width="200" height="59.43" as="geometry" />
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="p4w9HSehOi0-6pevXHGs-40" edge="1">
