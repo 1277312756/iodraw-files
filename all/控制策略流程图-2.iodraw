@@ -116,13 +116,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p4w9HSehOi0-6pevXHGs-40" value="净化后PM2.5分布&lt;div&gt;变异系数&amp;lt;25%?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p4w9HSehOi0-6pevXHGs-40" value="&lt;font face=&quot;Times New Roman&quot;&gt;净化后PM2.5分布&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;oQGUYz4AJK5tMYMc6cXU&quot;&gt;变异系数&amp;lt;25%?&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-77.5" y="670" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p4w9HSehOi0-6pevXHGs-53" target="p4w9HSehOi0-6pevXHGs-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p4w9HSehOi0-6pevXHGs-53" value="TCN-LSTM模型预测" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p4w9HSehOi0-6pevXHGs-53" value="&lt;font face=&quot;Times New Roman&quot;&gt;TCN-LSTM模型预测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-62.5" y="750" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p4w9HSehOi0-6pevXHGs-58" target="p4w9HSehOi0-6pevXHGs-19" edge="1">
