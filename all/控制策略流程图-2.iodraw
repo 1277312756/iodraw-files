@@ -308,7 +308,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p4w9HSehOi0-6pevXHGs-83" value="净化后PM2.5分布&lt;div&gt;变异系数&amp;lt;25%?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p4w9HSehOi0-6pevXHGs-83" value="&lt;font face=&quot;Times New Roman&quot;&gt;净化后PM2.5分布&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;yX8eubu3Rw0g3f88JvEK&quot;&gt;变异系数&amp;lt;25%?&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="729" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p4w9HSehOi0-6pevXHGs-88" target="p4w9HSehOi0-6pevXHGs-111" edge="1">
@@ -328,7 +328,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p4w9HSehOi0-6pevXHGs-130" value="经过10min" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p4w9HSehOi0-6pevXHGs-130" value="&lt;font face=&quot;Times New Roman&quot;&gt;经过10min&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="418.75" y="175" width="101.25" height="30" as="geometry" />
         </mxCell>
       </root>
