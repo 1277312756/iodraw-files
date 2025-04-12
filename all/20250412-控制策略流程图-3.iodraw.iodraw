@@ -67,7 +67,7 @@
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-52" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="p4w9HSehOi0-6pevXHGs-37" vertex="1" connectable="0">
           <mxGeometry x="-0.2468" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-31" value="&lt;font face=&quot;Times New Roman&quot;&gt;持续监测室内PM2.5浓度&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
