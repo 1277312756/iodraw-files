@@ -59,7 +59,7 @@
         <mxCell id="p4w9HSehOi0-6pevXHGs-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p4w9HSehOi0-6pevXHGs-25" target="p4w9HSehOi0-6pevXHGs-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p4w9HSehOi0-6pevXHGs-25" value="开启净化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p4w9HSehOi0-6pevXHGs-25" value="&lt;font face=&quot;Times New Roman&quot;&gt;开启净化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="470" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p4w9HSehOi0-6pevXHGs-31" target="p4w9HSehOi0-6pevXHGs-36" edge="1">
