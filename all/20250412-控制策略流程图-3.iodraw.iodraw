@@ -81,10 +81,11 @@
             <mxPoint x="-1" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p4w9HSehOi0-6pevXHGs-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p4w9HSehOi0-6pevXHGs-36" edge="1">
+        <mxCell id="p4w9HSehOi0-6pevXHGs-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="p4w9HSehOi0-6pevXHGs-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="10" y="510" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="-90" y="615" />
               <mxPoint x="-120" y="615" />
               <mxPoint x="-120" y="510" />
             </Array>
@@ -117,7 +118,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-40" value="&lt;font face=&quot;Times New Roman&quot;&gt;净化后PM2.5分布&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;变异系数&amp;lt;25%?&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="670" width="180" height="50" as="geometry" />
+          <mxGeometry x="-80" y="680" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p4w9HSehOi0-6pevXHGs-53" target="p4w9HSehOi0-6pevXHGs-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
