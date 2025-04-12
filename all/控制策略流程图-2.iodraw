@@ -70,7 +70,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p4w9HSehOi0-6pevXHGs-31" value="持续监测室内PM2.5浓度" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p4w9HSehOi0-6pevXHGs-31" value="&lt;font face=&quot;Times New Roman&quot;&gt;持续监测室内PM2.5浓度&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="530" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p4w9HSehOi0-6pevXHGs-36" target="p4w9HSehOi0-6pevXHGs-40" edge="1">
@@ -95,7 +95,7 @@
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p4w9HSehOi0-6pevXHGs-36" value="净化后PM2.5&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt;25ug/m&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;3&lt;/sup&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;时间达25min？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p4w9HSehOi0-6pevXHGs-36" value="&lt;font face=&quot;Times New Roman&quot;&gt;净化后PM2.5&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt;25ug/m&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;3&lt;/sup&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;hYSLZwgAokkqeJcjH5dU&quot;&gt;时间达25min？&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-90" y="590" width="200" height="59.43" as="geometry" />
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="p4w9HSehOi0-6pevXHGs-40" edge="1">
