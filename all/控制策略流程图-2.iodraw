@@ -250,8 +250,8 @@
             <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p4w9HSehOi0-6pevXHGs-79" value="净化后PM2.5&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt;50ug/m&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;3&lt;/sup&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;时间达15min？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="425.86" y="726.5" width="184.14" height="55" as="geometry" />
+        <mxCell id="p4w9HSehOi0-6pevXHGs-79" value="&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Times New Roman&quot;&gt;净化后PM2.5&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt;50ug/m&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;3&lt;/sup&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Times New Roman&quot;&gt;时间达15min？&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="726.5" width="200" height="55" as="geometry" />
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="p4w9HSehOi0-6pevXHGs-80" edge="1">
           <mxGeometry relative="1" as="geometry">
