@@ -231,7 +231,7 @@
             <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p4w9HSehOi0-6pevXHGs-78" value="&lt;font face=&quot;Times New Roman&quot;&gt;净化后PM2.5&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt;25μg/m&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;3&lt;/sup&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;TQRdTH8nRdqwVxb38fP8&quot;&gt;时间达15min？&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p4w9HSehOi0-6pevXHGs-78" value="&lt;font face=&quot;Times New Roman&quot;&gt;净化后PM2.5&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt;25μg/m&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;3&lt;/sup&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;时间达15min？&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="640" width="200" height="59" as="geometry" />
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="p4w9HSehOi0-6pevXHGs-79" target="p4w9HSehOi0-6pevXHGs-83" edge="1">
