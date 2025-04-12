@@ -228,7 +228,7 @@
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-121" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="p4w9HSehOi0-6pevXHGs-91" vertex="1" connectable="0">
           <mxGeometry x="-0.3006" y="1" relative="1" as="geometry">
-            <mxPoint y="3" as="offset" />
+            <mxPoint x="-1" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p4w9HSehOi0-6pevXHGs-78" value="&lt;font face=&quot;Times New Roman&quot;&gt;净化后PM2.5&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt;25μg/m&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;3&lt;/sup&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;时间达15min？&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
