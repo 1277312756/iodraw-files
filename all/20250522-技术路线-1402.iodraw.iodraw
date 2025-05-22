@@ -215,6 +215,9 @@
             <mxPoint x="725" y="575" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="F0-ZFgG18Jm-fCt9JQJK-5" value="内容支撑" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
